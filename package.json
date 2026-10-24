@@ -1,0 +1,23 @@
+{
+  "name": "sawit-shibuya-tma",
+  "version": "1.0.0",
+  "description": "Telegram Mini App 2.5D Open World Sawit Simulator & Shibuya Multiplayer Game",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "telegram",
+    "mini-app",
+    "tma",
+    "game",
+    "sawit",
+    "shibuya",
+    "multiplayer",
+    "webrtc",
+    "websocket"
+  ],
+  "author": "NUE",
+  "license": "MIT"
+}
